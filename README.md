@@ -1,3 +1,3 @@
-### Maven Hibernate Project: HQL Update Operation
+## Maven Hibernate Project: HQL Update Operation
 
-# Database Connection
+### Database Connection
